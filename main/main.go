@@ -38,7 +38,7 @@ func main() {
 
 			}*/
 
-			//data_Access.Data_Add_database("A5753", "10.29109/gujsc.62537", abstract_slice[0], keywords)
+			//data_Access.Data_Add_database("", "", abstract_slice[0], keywords)
 			if keywords == nil {
 
 				keywords_count++
